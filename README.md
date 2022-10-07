@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **the La Salle Handball Website.**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **web scraping using Puppeteer**
 
 - 📫 How to reach me **amifsud02@gmail.com**
 
